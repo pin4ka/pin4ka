@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Pinaka 🧑‍🎓 and I'm a B.Tech student 📚 studying Electronics ⚡ and Communication 📡 Engineering (ECE) 🔧🔍</h1>
+<h3 align="left">Hi 👋! My name is Pinaka 🧑‍🎓 and I'm a B.Tech student 📚 studying Electronics ⚡ and Communication 📡 Engineering (ECE) 🔧🔍</h3>
 
 ###
 
