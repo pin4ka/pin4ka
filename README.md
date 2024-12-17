@@ -2,6 +2,13 @@
 
 ###
 
+# 📊 GitHub Stats:
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=pin4ka&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pin4ka&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pin4ka&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
 ## 🏆 GitHub Trophies
 <div align="center">
   
