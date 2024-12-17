@@ -115,9 +115,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=pin4ka&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </div>
 
-### 🔝 Top Contributed Repo
-<div>
-  
+## 🔝 Top Contributed Repo
+<div align="center" >
 ![](https://github-contributor-stats.vercel.app/api?username=pin4ka&limit=5&theme=neon&combine_all_yearly_contributions=true&no-frame=true&no-bg=true)
 </div>
 
