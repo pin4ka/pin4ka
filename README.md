@@ -3,7 +3,7 @@
 ###
 
 ## 🏆 GitHub Trophies
-<div>
+<div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=pin4ka&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </div>
