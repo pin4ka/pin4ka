@@ -2,20 +2,6 @@
 
 ###
 
-# 📊 GitHub Stats:
-<span style="text-align: center;">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pin4ka&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pin4ka&theme=neon&hide_border=true)<br/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pin4ka&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</span>
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pin4ka&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=pin4ka&limit=5&theme=neon&combine_all_yearly_contributions=true&no-frame=true&no-bg=true)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pin4ka&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
